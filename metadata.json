@@ -1,0 +1,5 @@
+{
+  "name": "Gemini ArtFill",
+  "description": "Приложение для генеративного расширения фона и изменения соотношения сторон изображений с использованием Google Gemini API.",
+  "requestFramePermissions": []
+}
